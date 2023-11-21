@@ -8,17 +8,17 @@ Hi, I am Riddhiman. I am currently a Postdoctoral Researcher at Daniels School o
 ### Non-Asymptotic Analysis of Online Multiplicative Stochastic Gradient Descent
 This work is on Stochastic Gradient Descent with Mutiplicative noise and its continuous time behaviour. This has been resubmitted to the "Journal of Applied Probability".
 
-- [https://arxiv.org/abs/2112.07110]
+- [Link to Project](https://arxiv.org/abs/2112.07110)
 
 ### Explicit Constraints on the Geometric Rate of Convergence of Random Walk Metropolis-Hastings
 This work entails deriving explicit convergence bounds and conditions of geometric ergodicity of the Random Walk Metropolis algorithm. This project is under revision at "Bernoulli".
 
-- [https://arxiv.org/abs/2307.11644]
+- [Link to Project](https://arxiv.org/abs/2307.11644)
 
 ### Fast Sampling and Inference via Preconditioned Langevin Dynamics
 This work is on fast sampling algorithms with preconditioning. This has been submitted to "The Royal Statistical Society: Series B"
 
-- [https://arxiv.org/abs/2310.07542]
+- [Link to Project](#https://arxiv.org/abs/2310.07542)
 
 ## Skills
 - Latex, R, Python, MATLAB, SAS
