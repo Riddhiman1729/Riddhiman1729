@@ -18,7 +18,7 @@ This work entails deriving explicit convergence bounds and conditions of geometr
 ### Fast Sampling and Inference via Preconditioned Langevin Dynamics
 This work is on fast sampling algorithms with preconditioning. This has been submitted to "The Royal Statistical Society: Series B"
 
-- [Link to Project](#https://arxiv.org/abs/2310.07542)
+- [Link to Project](https://arxiv.org/abs/2310.07542)
 
 ## Skills
 - Latex, R, Python, MATLAB, SAS
