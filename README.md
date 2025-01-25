@@ -17,7 +17,7 @@ In this work we examine resource allocation in an online setting using active fe
 ### Gradient-based Discrete Sampling with Automatic Cyclical Scheduling
  We propose an automatic cyclical scheduling, designed for efficient and accurate sampling in multimodal discrete distributions. Our method contains three key components: (1) a cyclical step size schedule where large steps discover new modes and small steps exploit each mode; (2) a cyclical balancing schedule, ensuring "balanced" proposals for given step sizes and high efficiency of the Markov chain; and (3) an automatic tuning scheme for adjusting the hyperparameters in the cyclical schedules, allowing adaptability across diverse datasets with minimal tuning. We prove the non-asymptotic convergence and inference guarantee for our method in general discrete distributions. Extensive experiments demonstrate the superiority of our method in sampling complex multimodal discrete distributions.
 
-- [Link to Project]([https://dl.acm.org/doi/10.1145/3670865.3673617](https://openreview.net/forum?id=4syq5cgwA2&referrer=%5Bthe%20profile%20of%20Ruqi%20Zhang%5D(%2Fprofile%3Fid%3D~Ruqi_Zhang1)))
+- [Link to Project](https://openreview.net/forum?id=4syq5cgwA2&referrer=%5Bthe%20profile%20of%20Ruqi%20Zhang%5D(%2Fprofile%3Fid%3D~Ruqi_Zhang1))
 
 ## Submitted Works
 
