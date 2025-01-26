@@ -42,7 +42,7 @@ In this work we examine resource allocation in an online setting using active fe
 This paper explores sampling from flat modes in discrete spaces. We propose the Entropic Discrete Langevin Proposal (EDLP) which integrates the discrete sampling variable with a continuous auxiliary variable under a joint distribution framework. In particular, by adapting the Discrete Langevin Proposal (DLP) to leverage local entropy, EDLP enables efficient exploration of flat regions. Backed by rigorous theoretical guarantees, our approach consistently outperforms traditional methods across tasks necessitating sampling from flat basins such as Ising models, restricted Boltzmann machines, and binary neural networks. This project is submitted to ICML 2025.
 
 ## Skills
-- Latex, R, Python, MATLAB, SAS
+- Latex, R, Python, MATLAB, SAS, Pyspark, SparkR, SparkSQL
 
 ## Contact
 
